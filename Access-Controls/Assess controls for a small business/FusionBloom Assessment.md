@@ -1,7 +1,7 @@
 NOTES:
 
 Event ID: 1227
-Date: 10/03/23/n
+Date: 10/03/23\n
 User: Legal/Administrator
 IP: 152.207.255.255
 Description: Payroll event added. FAUX_BANK
