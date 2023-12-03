@@ -1,4 +1,4 @@
-NOTES:
+# NOTES
 
 Event ID: 1227
 
@@ -12,7 +12,7 @@ Description: Payroll event added. FAUX_BANK
 
 
 
-Issues:
+# Issues
 
 1.Robert taylor Jr is an active admin
 
@@ -22,7 +22,7 @@ Issues:
 
 
 
-Reccomendations:
+# Reccomendations
 
 1.User accounts should be set to expire 30 days after their last working day.
 
@@ -32,6 +32,6 @@ Reccomendations:
 
 
 
-Summary:
+# Summary
 
 My investigation into the unauthorized deposit revealed a threat actor who was previously a contractor for FusionBloom. The deposit into an unidentified bank account occurred due to inadequate security controls for business resources. This incident had the potential to cause significant financial loss for FusionBloom if the unauthorized transaction hadn't been detected in time for suspension. I recommend three measures: assigning expiration dates to user accounts upon employment termination, restricting contractors' access to business resources, and implementing Multi-Factor Authentication. Any of these methods could have prevented this incident, and I strongly recommend the adoption of at least one or more of these policies to mitigate the risk of similar incidents in the future.
