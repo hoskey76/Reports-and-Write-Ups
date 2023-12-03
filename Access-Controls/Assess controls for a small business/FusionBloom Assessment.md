@@ -6,17 +6,22 @@ User: Legal/Administrator
 IP: 152.207.255.255
 Description: Payroll event added. FAUX_BANK
 
+
+
 Issues:
 
 1.Robert taylor Jr is an active admin
 2.He was only contracted for 3 months, ending in 2019
 3.His acccount accessed payroll systems in 2023
 
+
+
 Reccomendations:
 
 1.User accounts should be set to expire 30 days after their last working day.
 2.All contractors should have limited access to business resources.
 3.Enable the use of Multi-Factor Authentication (MFA) to access business resources.
+
 
 
 Summary:
