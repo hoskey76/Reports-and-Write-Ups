@@ -2,7 +2,7 @@
 
 The goal is to analyze the provided data, then compose a document that will be used to report your findings to stakeholders.
 
-The file "FusionBloom Access Log.xlsx" in this directory contains the event log and the employee directory you will need to complete this task.
+The file [FusionBloom Access Log](https://github.com/hoskey76/Reports-and-Write-Ups/blob/main/Assets-Threats-Vulnerabilities/FusionBloom-Access%20Controls/FusionBloom%20Access%20Log.xlsx) in this directory contains the event log and the employee directory you will need to complete this task.
 
 
 # SCENARIO
