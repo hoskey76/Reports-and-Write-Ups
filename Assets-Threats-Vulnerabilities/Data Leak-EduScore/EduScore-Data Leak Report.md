@@ -12,7 +12,8 @@
 
 [NIST SP 800-53: AC-6](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=AC-6): Addresses how an organization can protect their data privacy by implementing least privilege. It also suggests control enhancements that can be used to improve the effectiveness of least privilege in an organization. 
 
-**NOTE**: You can find information on NIST publications by navigating through their [Cybersecurity and Privacy Reference Tool (CPRT)](https://csrc.nist.gov/projects/cprt/catalog#/cprt/home)
+>[!NOTE]
+>You can find information on NIST publications by navigating through their [Cybersecurity and Privacy Reference Tool (CPRT)](https://csrc.nist.gov/projects/cprt/catalog#/cprt/home)
 
 # Recommend Control Enhancements
 ### What could be utilized to improve the principle of least privilege at EduScore?
